@@ -14,6 +14,8 @@ values
 (2,"Sprite",'2022-07-03' ,30,"Swire Coca Cola","Drink"),
 (3,"Fanta",'04-07-2022' ,30,"Swire Coca Cola","Drink");
 
-#insert some Data In Your List = insert into <Your list Of Name> Values(<Follow Your Field's Type And Input You Data>) 
-#New Information, If You Want Type Dateor Date Times, Please Follow Like This YYYY/MM/DD 
 select * from product_list
+
+#insert some Data In Your List = insert into <Your list Of Name> Values(<Follow Your Field's Type And Input You Data>) 
+#New Information, If You Want Type Date or Date Times, Please Follow Like This YYYY/MM/DD 
+
